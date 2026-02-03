@@ -1,0 +1,7 @@
+{
+  "name": "CardScanAI V7",
+  "description": "Professional business card scanner for field sales staff. Batch scan cards to CSV/VCF using Google Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
